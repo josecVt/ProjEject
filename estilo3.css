@@ -7,6 +7,9 @@ p{
     text-align: justify;
     margin: 0% 30% 0% 0%;
 }
+#foto img{
+    border-radius: 10%;
+}
 
 @font-face{
     font-family: "SierraMadre-JVYM";
